@@ -1,0 +1,16 @@
+## npm ##
+node_modules
+*.log
+*.gz
+
+## Coveralls ##
+.nyc_output
+coverage
+
+## Build ##
+dist
+
+## Misc ##
+.DS_Store
+.vscode
+.env*
